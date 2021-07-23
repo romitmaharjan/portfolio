@@ -1,1 +1,1 @@
-export const PORT = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : 'https://www.romitmaharjan.com.np'
+export const PORT = process.env.NODE_ENV === 'development' ? 'http://localhost:3000' : ''
