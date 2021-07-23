@@ -1,0 +1,21 @@
+.grid{
+    margin: 0 auto !important;
+    margin-top: 5%;
+}
+
+form{
+    padding: 10px;
+}
+
+.links{
+    text-decoration: none;
+    color: inherit;
+}
+
+.links:hover{
+    text-decoration:underline;
+}
+
+.MuiCardContent-root:last-child{
+    padding: 16px !important;
+}
